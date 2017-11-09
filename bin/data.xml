@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+	<companyObject>
+		<adress>Hartannstr 33, 90423 Erlangen</adress>
+		<comment>Problem bitte lösen</comment>
+		<companyName>Siemens</companyName>
+		<contactObject>
+			<decisionmaker>false</decisionmaker>
+			<degree>
+				<deleted>false</deleted>
+			</degree>
+			<firstName>Kohl</firstName>
+			<lastName>Gerhard</lastName>
+			<salutation>
+				<deleted>false</deleted>
+			</salutation>
+		</contactObject>
+		<email>kohl@siemens.com</email>
+		<taskAssigneeObject>
+			<assigneeName>Baureinigung</assigneeName>
+			<id>0</id>
+		</taskAssigneeObject>
+		<telephon>09991234</telephon>
+	</companyObject>
+	<companyObject>
+		<adress>Berlinerstr 22, 3333 Manheim</adress>
+		<comment>Problem bitte lösen</comment>
+		<companyName>Project Immobilien</companyName>
+		<contactObject>
+			<decisionmaker>false</decisionmaker>
+			<degree>
+				<deleted>false</deleted>
+			</degree>
+			<firstName>Merlin</firstName>
+			<lastName>Brauer</lastName>
+			<salutation>
+				<deleted>false</deleted>
+			</salutation>
+		</contactObject>
+		<email>merlinb@yahoo.fr</email>
+		<taskAssigneeObject>
+			<assigneeName>Wände malen</assigneeName>
+			<id>0</id>
+		</taskAssigneeObject>
+		<telephon>012783633</telephon>
+	</companyObject>
+	<companyObject>
+		<adress>Bachgrabenerstr 3, 34432 Erlangen</adress>
+		<comment>Problem bitte beheben</comment>
+		<companyName>Areva</companyName>
+		<contactObject>
+			<decisionmaker>false</decisionmaker>
+			<degree>
+				<deleted>false</deleted>
+			</degree>
+			<firstName>Gunnar</firstName>
+			<lastName>Krause</lastName>
+			<salutation>
+				<deleted>false</deleted>
+			</salutation>
+		</contactObject>
+		<email>gunnar@areva.com</email>
+		<taskAssigneeObject>
+			<assigneeName>Fließen verlegen</assigneeName>
+			<id>0</id>
+		</taskAssigneeObject>
+		<telephon>091312894</telephon>
+	</companyObject>
+	<companyObject>
+		<adress>Hartannstr 33, 90423 Erlangen</adress>
+		<comment>Problem bitte lösen</comment>
+		<companyName>Siemens</companyName>
+		<contactObject>
+			<decisionmaker>false</decisionmaker>
+			<degree>
+				<createdAt>2017-03-16T15:49:20.153+01:00</createdAt>
+				<createdBy>p.pruitt</createdBy>
+				<degreePrefix>Dr. </degreePrefix>
+				<degreeValue>Dr.</degreeValue>
+				<deleted>false</deleted>
+				<id>1</id>
+			</degree>
+			<firstName>Kohl</firstName>
+			<lastName>Gerhard</lastName>
+			<salutation>
+				<createdAt>2017-03-16T15:49:20.127+01:00</createdAt>
+				<createdBy>p.pruitt</createdBy>
+				<deleted>false</deleted>
+				<id>2</id>
+				<salutationPrefix>Herr </salutationPrefix>
+				<salutationValue>Herr</salutationValue>
+			</salutation>
+		</contactObject>
+		<email>kohl@siemens.com</email>
+		<taskAssigneeObject>
+			<assigneeName>Baureinigung</assigneeName>
+			<id>0</id>
+		</taskAssigneeObject>
+		<telephon>09991234</telephon>
+	</companyObject>
+	<taskAssigneeObject>
+		<assigneeName>Fenster platzieren</assigneeName>
+		<id>0</id>
+	</taskAssigneeObject>
+	<taskAssigneeObject>
+		<assigneeName>Baureinigung</assigneeName>
+		<id>0</id>
+	</taskAssigneeObject>
+	<taskAssigneeObject>
+		<assigneeName>Fließen verlegen</assigneeName>
+		<id>0</id>
+	</taskAssigneeObject>
+	<taskAssigneeObject>
+		<assigneeName>Wände malen</assigneeName>
+		<id>0</id>
+	</taskAssigneeObject>
+
+	<taskObject>
+		<taskName>Verhamdlung</taskName>
+		<taskDescription>Hier Aufgabebeschreibung</taskDescription>
+		<leadDays>4</leadDays>
+		<durationDays>5</durationDays>
+		<employeeObject>
+			<firstname>Leumaleu</firstname>
+			<lastname>Cedric</lastname>
+		</employeeObject>
+	</taskObject>
+
+	<taskObject>
+		<taskName>Erhalt der Plannung</taskName>
+		<taskDescription>Hier Aufgabebeschreibung</taskDescription>
+		<leadDays>3</leadDays>
+		<durationDays>3</durationDays>
+		<employeeObject>
+			<firstname>Andre</firstname>
+			<lastname>Numbe</lastname>
+		</employeeObject>
+	</taskObject>
+
+	<taskObject>
+		<taskName>Baubeginn</taskName>
+		<taskDescription>Hier Aufgabebeschreibung</taskDescription>
+		<leadDays>3</leadDays>
+		<durationDays>4</durationDays>
+		<employeeObject>
+			<firstname>Kaka</firstname>
+			<lastname>Fuka</lastname>
+		</employeeObject>
+	</taskObject>
+
+	<employeeObject>
+		<firstname>Kaka</firstname>
+		<lastname>Fuka</lastname>
+	</employeeObject>
+
+	<employeeObject>
+		<firstname>Martina</firstname>
+		<lastname>Müller</lastname>
+	</employeeObject>
+
+	<employeeObject>
+		<firstname>Gerhard</firstname>
+		<lastname>Wanka</lastname>
+	</employeeObject>
+
+	<employeeObject>
+		<firstname>Markus</firstname>
+		<lastname>Böffel</lastname>
+	</employeeObject>
+</data>
